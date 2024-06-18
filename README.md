@@ -1,1 +1,1 @@
-# ejemplos_google_colab
+# ejemplos de Google Colab y Jupyter Notebook
