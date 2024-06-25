@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=SeiSee
-Exec=env WINEPREFIX="/home/guillermo/.wine" wine C:\\\\users\\\\Public\\\\Desktop\\\\SeiSee.lnk
-Type=Application
-StartupNotify=true
-Path=/home/guillermo/.wine/dosdevices/c:/Program Files (x86)/DMNG/SeiSee
-Icon=0EF4_SeiSee.0
-StartupWMClass=seisee.exe
